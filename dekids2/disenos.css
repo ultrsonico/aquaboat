@@ -1,0 +1,139 @@
+ *{
+
+    margin: 0px;
+
+    
+ }
+
+body{
+    background: white;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+ul {
+     list-style: none;
+      display: flex;
+     height: inherit;
+     margin-top: 20px;
+        }
+.menu{
+    height: inherit;
+    margin-top: 20px;
+}
+    .header{
+         background:white  ; 
+         color: white;
+         display: flex;
+         justify-content: space-between;
+         height: 90px;
+        align-items: center;
+
+align-items: center;
+
+        }
+    .logo img{
+        width: 100px;
+     
+    }
+    
+    .header a{
+color: black;
+text-decoration: none;
+height: inherit;
+padding: 0px 10px ;
+
+    }
+    .principal{ 
+       background: black;
+      text-align: center;
+      background-image: url(https://st3.depositphotos.com/2977159/12633/i/950/depositphotos_126331216-stock-photo-plastic-and-foam-garbage-on.jpg);
+      background-size:  cover ;
+      height: 500px;
+      background-repeat: no-repeat;
+      
+    
+    }
+    .principal img{
+       padding: 20px;
+     width: 400px;
+    }
+    .two{
+        background:rgba(20, 88, 189, 0.966);
+        text-align: center;
+        color:  white;
+          padding: 20px;
+    
+    }
+    .two h2 p{
+         padding: 20px;
+    }
+.two iframe{
+    margin:20px;
+}
+    .three {
+        background: yellow;
+        text-align: left;
+    
+    }
+ .padre{background-color: aliceblue; display: flex ; flex-wrap: wrap;
+    justify-content: center;flex-direction: row;
+    height: 500px;
+    align-items: center;
+
+}
+ .hijo {background-color: blue;
+width: 300px;
+height: 300px; border: 2px solid black; font-size: 30px; margin: 10px; 
+display: flex;
+
+}
+
+
+
+    .header li {
+        height: inherit;
+    }
+    .principal-buton{
+        width: 250px;
+        height: 40px;
+        background-color:orange;
+        cursor: pointer;
+         border-radius: 24px;
+         border: none;
+         font-size: 30px;
+    }
+     .principal h1{ 
+         font-size: 30px;
+         padding: 20px;
+         font-family: Arial, Helvetica, sans-serif;
+     }
+     .contacto {
+         color: black;
+         height: 500px;
+         text-align: center;
+     }
+     .contacto h2{
+          padding: 20px;
+     }
+.contacto{ 
+    display: flex;
+    justify-content: space-between;
+}
+.col-1{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.four{
+    height: 500px;
+    background-color: white;
+    }
+    .four h2{
+
+        color: black;
+    } 
+
+    .container1 {display: flex;}
+
+
+     
